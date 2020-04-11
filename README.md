@@ -1,6 +1,6 @@
 # Graph: Breath First Search
 
-"__Repository Description:__
+__Repository Description:__
 <br/>
 This repository stores the work as part of the Data Structures and Algorithms specialization courses by University California of San Diego. Course URL: https://www.coursera.org/specializations/data-structures-algorithms. Code in this repository is written by myself, Kristen Phan.
 <br/>
@@ -21,7 +21,7 @@ of a shortest path between 𝑢 and 𝑣 (that is, the minimum number of edges i
 Input Format: A graph is given in the standard format. The next line contains two vertices 𝑢 and 𝑣.
 <br/>
 <br/>
-Constraints: 2 ≤ 𝑛 ≤ 105, 0 ≤ 𝑚 ≤ 105, 𝑢 ̸= 𝑣, 1 ≤ 𝑢, 𝑣 ≤ 𝑛.
+Constraints: 2 ≤ 𝑛 ≤ 10^5, 0 ≤ 𝑚 ≤ 10^5, 𝑢 ̸= 𝑣, 1 ≤ 𝑢, 𝑣 ≤ 𝑛.
 <br/>
 <br/>
 Output Format: Output the minimum number of edges in a path from 𝑢 to 𝑣, or −1 if there is no path.
