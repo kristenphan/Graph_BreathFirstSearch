@@ -1,4 +1,4 @@
-# Graph: Breath First Search
+# Undirected Graph: Breath First Search
 
 __Repository Description:__
 <br/>
