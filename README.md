@@ -5,6 +5,12 @@ __Repository Description:__
 This repository stores the work as part of the Data Structures and Algorithms specialization courses by University California of San Diego. Course URL: https://www.coursera.org/specializations/data-structures-algorithms. Code in this repository is written by myself, Kristen Phan.
 <br/>
 <br/>
+__Caveat__: 
+<br/>
+If you're currently taking the same course, please refrain yourself from checking out this solution as it will be against Coursera's Honor Code and won’t do you any good. Plus, once you're worked your heart out and was able to solve a particularly difficult problem, a sense of confidence you gained from such experience is priceless :)"
+'''
+<br/>
+<br/>
 __Assignment Description:__
 <br/>
 Problem Introduction:
@@ -31,8 +37,4 @@ Time Limits: Python - 10 seconds
 <br/>
 <br/>
 Memory Limit: 512MB
-<br/>
-<br/>
-__Disclaimer__: 
-<br/>
-If you're currently taking the same course, please refrain yourself from checking out this solution as it will be against Coursera's Honor Code and won’t do you any good. Plus, once you're worked your heart out and was able to solve a particularly difficult problem, a sense of confidence you gained from such experience is priceless :)"
+
